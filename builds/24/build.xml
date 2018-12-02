@@ -1,0 +1,28 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>27</queueId>
+  <timestamp>1534067280365</timestamp>
+  <startTime>1534067280443</startTime>
+  <result>FAILURE</result>
+  <description>This description is placed on the build top page so that visitors can know what this build did. You can use any HTML tags (or markup in the configured language) here.
+</description>
+  <displayName>This description is placed on the build top page so that visitors can know what this build did. You can use any HTML tags (or markup in the configured language) here.</displayName>
+  <duration>189</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Program Files (x86)\Jenkins\workspace\Demo01Project</workspace>
+  <hudsonVersion>2.136</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>
