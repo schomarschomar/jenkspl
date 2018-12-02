@@ -1,0 +1,8 @@
+Build wurde zeitgesteuert ausgelöst.
+Baue in Arbeitsbereich C:\Program Files (x86)\Jenkins\workspace\Demo01Project
+No emails were triggered.
+[Demo01Project] $ cmd /c call C:\WINDOWS\TEMP\jenkins3840625508551264752.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Demo01Project>exit 0 
+No emails were triggered.
+Finished: SUCCESS
