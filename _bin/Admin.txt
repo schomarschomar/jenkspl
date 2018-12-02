@@ -1,0 +1,8 @@
+Administrator Password File
+C:\Users\Gastnutzer\.jenkins\secrets\initialAdminPassword
+
+Administrator Password
+702ee9a5d93d44ffbfd18f256d3b5148
+
+User
+Admin
